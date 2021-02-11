@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class DevopsTestApplication {
-//test pipeline run2
+//test pipeline jenkins
 	public static void main(String[] args) {
 		SpringApplication.run(DevopsTestApplication.class, args);
 	}
